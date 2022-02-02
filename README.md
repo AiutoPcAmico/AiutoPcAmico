@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felappiandrea2002
-- 👀 I’m interested in Cmputer Programming!
+- 👀 I’m interested in Computer Programming!
 - 🌱 I’m currently learning PHP, HTML, CSS, JavaScript 
 
 <!---
