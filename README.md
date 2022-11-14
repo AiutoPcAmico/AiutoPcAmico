@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AiutoPcAmico
 - 👀 I’m interested in Computer Programming!
-- 🌱 I’m currently learning PHP, HTML, CSS, JavaScript 
+- 🌱 I’m currently learning PHP, HTML, CSS, JavaScript, ReactJS
 
 <!---
 AiutoPcAmico/AiutoPcAmico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
